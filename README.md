@@ -1,6 +1,6 @@
 HkNet package
 
-Generalized H-k after HkNet on receiver functions
+Estimating crustal thickness and Vp/Vs ration from receiver functions
 
 a Deep learning method 
 
