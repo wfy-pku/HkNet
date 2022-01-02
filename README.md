@@ -2,7 +2,7 @@ HkNet package
 
 Estimating crustal thickness and Vp/Vs ration from receiver functions
 
-a Deep learning method 
+A deep-learning method 
 
 by Feiyi Wang, Xiaodong Song and Jiangtao Li
 
